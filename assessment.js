@@ -19,6 +19,7 @@ var myShirt = {
 	type: 'polo',
 	color: 'red'
 };
+asdlfjas;lkdf
 
 // Change my shirt type to spandex using square bracket notation
 var myOtherShirt = {
